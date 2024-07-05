@@ -7,6 +7,6 @@ Text Mining
 
 chromedriver 사용하여 크롤링 진행.
 
-malgun을 통해 시각화에서 한글이 깨지는 문제 해결.
+malgun.ttf을 통해 시각화에서 한글이 깨지는 문제 해결.
 
 불용어사전1은 전처리코드에서 사용.
